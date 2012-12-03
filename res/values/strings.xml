@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">WalkingSkeletonPersistence</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_wsp">WSPActivity</string>
+    <string name="save">Save</string>
+    <string name="weight">Weight?</string>
+
+</resources>
